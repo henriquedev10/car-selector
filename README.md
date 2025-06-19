@@ -1,4 +1,4 @@
-# 🚗 Car Selector
+![Captura de Tela 2025-06-19 às 16 41 31](https://github.com/user-attachments/assets/eb4ab552-405e-4d11-a126-c109a90c29a9)# 🚗 Car Selector
 
 Um catálogo interativo de carros, com design moderno e navegação dinâmica.  
 Criado para fins de estudo e portfólio, utilizando apenas **HTML**, **CSS** e **JavaScript** puro. 🚀 
@@ -18,7 +18,8 @@ Criado para fins de estudo e portfólio, utilizando apenas **HTML**, **CSS** e *
 
 ## 📷 Preview
 
-![Preview do projeto](./img/screenshot.png) <!-- Adicione uma imagem real do seu projeto aqui -->
+![Preview do projeto](./img/screenshot.png) <!-- ![Captura de Tela 2025-06-19 às 16 41 31](https://github.com/user-attachments/assets/01bb5932-1173-4390-a4a6-6d9def0dfb1c)
+ -->
 
 ## 🚀 Como rodar o projeto
 
