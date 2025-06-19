@@ -18,8 +18,7 @@ Criado para fins de estudo e portfólio, utilizando apenas **HTML**, **CSS** e *
 
 ## 📷 Preview
 
-![Preview do projeto](./img/screenshot.png) <!-- ![Captura de Tela 2025-06-19 às 16 41 31](https://github.com/user-attachments/assets/01bb5932-1173-4390-a4a6-6d9def0dfb1c)
- -->
+![Captura de Tela 2025-06-19 às 16 41 31](https://github.com/user-attachments/assets/09783b87-afb3-411e-bf7b-d1cd77c1f1ce)
 
 ## 🚀 Como rodar o projeto
 
