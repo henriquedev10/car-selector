@@ -1,7 +1,7 @@
 # 🚗 Car Selector
 
 Um catálogo interativo de carros, com design moderno e navegação dinâmica.  
-Criado para fins de estudo e portfólio, utilizando apenas **HTML**, **CSS** e **JavaScript** puro.
+Criado para fins de estudo e portfólio, utilizando apenas **HTML**, **CSS** e **JavaScript** puro. 🚀 
 
 ## 🧰 Tecnologias utilizadas
 
