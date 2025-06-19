@@ -36,8 +36,18 @@ header {
     }
 }
 
+nav ul li {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+nav ul li:hover {
+  color: #004400;
+}
+
+
 section {
-    background-image: radial-gradient(#470964, #791fd3);
+    background-image: radial-gradient(#2bff00, #059a00);
     height: 100vh;
     position: relative;
 
@@ -108,7 +118,7 @@ section {
                     height: 35px;
                     width: 120px;
                     text-transform: uppercase;
-                    border: 2px solid #791fd3;
+                    border: 2px solid #00792c;
                     background-color: #beff1b;
                     color: #000;
                     cursor: pointer;
